@@ -1,0 +1,7 @@
+# Planilhas são binárias: sem diff textual nem conversão de fim de linha
+*.xlsm binary
+*.xlsx binary
+*.xls  binary
+# Código VBA exportado: manter CRLF (padrão do editor VBA)
+*.bas text eol=crlf
+*.cls text eol=crlf

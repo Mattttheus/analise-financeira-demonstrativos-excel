@@ -1,0 +1,9 @@
+# Arquivos temporários / de bloqueio do Excel
+~$*
+*.tmp
+.~lock.*#
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
